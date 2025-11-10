@@ -19,8 +19,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Elegant Flora Boutique",
-  description: "Beautiful AI-powered website creation platform",
+  title: "Entertainment Global Corp | Leading the Future of Entertainment",
+  description: "A global leader in entertainment creating unforgettable experiences across film, television, music, gaming, and streaming platforms worldwide",
 };
 
 export default function RootLayout({
@@ -40,7 +40,7 @@ export default function RootLayout({
           <ZyloProvider>
             <ThemeProvider
               attribute="class"
-              defaultTheme="light"
+              defaultTheme="dark"
               enableSystem
               disableTransitionOnChange
             >
